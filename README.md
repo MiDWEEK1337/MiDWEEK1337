@@ -11,6 +11,7 @@ MiDWEEK
 ## 1/14 -22
 
 * Update tag from WEBRip to WEB+Custom.
+* Now probing audio tracks to reflect the correct bitrate.
 
 ## 8/10 -21
 
