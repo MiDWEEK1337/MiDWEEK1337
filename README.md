@@ -8,6 +8,10 @@ MiDWEEK
 
 # Changes
 
+## 2/24 -22
+
+* The victory over lazyness sets EAC3 audio codecs over AAC-128.
+
 ## 1/14 -22
 
 * Update tag from WEBRip to WEB+Custom.
