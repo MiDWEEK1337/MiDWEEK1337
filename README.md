@@ -10,7 +10,7 @@ Below list of rules may go against scene setups but the goal is to have a cleare
 
 ## Why 720p?
 
-MiDWEEK is aiming at high quality low resolutions, while others are aiming at high quality high resolution. The goal is to be "standard codec friendly" where for example plex servers without the ability to decode HEVC and CPU/GPU consuming streams.
+MiDWEEK is aiming at high quality low resolutions, while others are aiming at high quality high resolution. The goal is to be "standard codec friendly" where for example plex servers - without the ability to decode HEVC and CPU/GPU consuming streams - can stream without buffering issues.
 
 # Changes
 
