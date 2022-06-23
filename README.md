@@ -8,6 +8,10 @@ Below list of rules may go against scene setups but the goal is to have a cleare
 * Nordicsubs: Only nordic subtitles are available.
 * Multi: A shitload of languages are included, both for audio and subtitles.
 
+## Why 720p?
+
+MiDWEEK is aiming at high quality low resolutions, while others are aiming at high quality high resolution. The goal is to be "standard codec friendly" where for example plex servers without the ability to decode HEVC and CPU/GPU consuming streams.
+
 # Changes
 
 ## 2/24 -22
