@@ -2,6 +2,8 @@ MiDWEEK
 
 # Ruleset of tagging
 
+Below list of rules may go against scene setups but the goal is to have a clearer tagset than the origins.
+
 * Nordic: We include nordic audio and nordic subtitles.
 * Nordicsubs: Only nordic subtitles are available.
 * Multi: A shitload of languages are included, both for audio and subtitles.
